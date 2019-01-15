@@ -7,3 +7,4 @@ Blue
 Orange
 Silver
 Magenta
+Rainbow
